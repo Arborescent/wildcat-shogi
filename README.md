@@ -4,13 +4,13 @@ A casual 3x5 shogi variant.
 
 ## Pieces
 
-| Piece | SFEN | Movement |
-|-------|------|----------|
-| Tiger | K | 1 square any direction |
-| Puma | R | 1 square orthogonally |
-| Lynx | B | 1 square diagonally |
-| Cat | P | 1 square forward, promotes to Wild Cat |
-| Wild Cat | G | 1 square orthogonally or diagonally forward |
+| Piece | Image | SFEN | Movement |
+|-------|-------|------|----------|
+| Tiger | <img src="pieces/tiger_sente.png" width="64" height="64"> | K | 1 square any direction |
+| Puma | <img src="pieces/puma_sente.png" width="64" height="64"> | R | 1 square orthogonally |
+| Lynx | <img src="pieces/lynx_sente.png" width="64" height="64"> | B | 1 square diagonally |
+| Cat | <img src="pieces/cat_sente.png" width="64" height="64"> | P | 1 square forward, promotes to Wild Cat |
+| Wild Cat | <img src="pieces/wildcat_sente.png" width="64" height="64"> | G | 1 square orthogonally or diagonally forward |
 
 ## Rules
 
