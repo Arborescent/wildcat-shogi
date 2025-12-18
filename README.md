@@ -1,6 +1,6 @@
 # Wild Cat Shogi
 
-A 3x5 shogi variant for kids.
+A casual 3x5 shogi variant.
 
 ## Pieces
 
