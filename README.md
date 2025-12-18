@@ -25,19 +25,13 @@ A casual 3x5 shogi variant.
 
 ## Starting Position
 
-```
- +---+---+---+
- | b | k | r |   Black
- +---+---+---+
- | p |   | p |
- +---+---+---+
- |   |   |   |
- +---+---+---+
- | P |   | P |
- +---+---+---+
- | R | K | B |   White
- +---+---+---+
-```
+|   | a | b | c |
+|---|---|---|---|
+| 1 | <img src="pieces/lynx_gote.png" width="48" height="48"> | <img src="pieces/tiger_gote.png" width="48" height="48"> | <img src="pieces/puma_gote.png" width="48" height="48"> |
+| 2 | <img src="pieces/cat_gote.png" width="48" height="48"> |   | <img src="pieces/cat_gote.png" width="48" height="48"> |
+| 3 |   |   |   |
+| 4 | <img src="pieces/cat_sente.png" width="48" height="48"> |   | <img src="pieces/cat_sente.png" width="48" height="48"> |
+| 5 | <img src="pieces/puma_sente.png" width="48" height="48"> | <img src="pieces/tiger_sente.png" width="48" height="48"> | <img src="pieces/lynx_sente.png" width="48" height="48"> |
 
 ## Testing with Fairy-Stockfish
 
