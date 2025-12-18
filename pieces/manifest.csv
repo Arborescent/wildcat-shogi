@@ -1,0 +1,13 @@
+piece_kind,player,promoted,file_path
+King,Sente,false,assets/images/wildcat/tiger_sente.png
+King,Gote,false,assets/images/wildcat/tiger_gote.png
+Rook,Sente,false,assets/images/wildcat/puma_sente.png
+Rook,Gote,false,assets/images/wildcat/puma_gote.png
+Bishop,Sente,false,assets/images/wildcat/lynx_sente.png
+Bishop,Gote,false,assets/images/wildcat/lynx_gote.png
+Pawn,Sente,false,assets/images/wildcat/cat_sente.png
+Pawn,Gote,false,assets/images/wildcat/cat_gote.png
+Gold,Sente,false,assets/images/wildcat/wildcat_sente.png
+Gold,Gote,false,assets/images/wildcat/wildcat_gote.png
+Pawn,Sente,true,assets/images/wildcat/wildcat_sente.png
+Pawn,Gote,true,assets/images/wildcat/wildcat_gote.png
