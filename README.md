@@ -4,13 +4,13 @@ A casual 3x5 shogi variant.
 
 ## Pieces
 
-| Piece | Image | SFEN | Fairy Piece | Movement |
-|-------|-------|------|-------------|----------|
+| Piece | Image | SFEN | Similar to | Movement |
+|-------|-------|------|------------|----------|
 | Tiger | <img src="pieces/tiger_sente.png" width="64" height="64"> | K | ♚ King | 1 square any direction |
 | Puma | <img src="pieces/puma_sente.png" width="64" height="64"> | R | 🨦 Wazir | 1 square orthogonally |
 | Lynx | <img src="pieces/lynx_sente.png" width="64" height="64"> | B | 🨧 Ferz | 1 square diagonally |
-| Cat | <img src="pieces/cat_sente.png" width="64" height="64"> | P | ♟ Pawn | 1 square forward, promotes to Wild Cat |
-| Wild Cat | <img src="pieces/wildcat_sente.png" width="64" height="64"> | G | 🨩 Gold | 1 square orthogonally or diagonally forward (promoted Cat) |
+| Cat | <img src="pieces/cat_sente.png" width="64" height="64"> | P | 歩 Pawn | 1 square forward, promotes to Wild Cat |
+| Wild Cat | <img src="pieces/wildcat_sente.png" width="64" height="64"> | G | 金 Gold | 1 square orthogonally or diagonally forward (promoted Cat) |
 
 ## Rules
 
