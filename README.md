@@ -4,13 +4,13 @@ A casual 3x5 shogi variant.
 
 ## Pieces
 
-| Piece | Movement |
-|-------|----------|
-| K (King) | 1 square any direction |
-| R (Wazir) | 1 square orthogonally |
-| B (Fers) | 1 square diagonally |
-| P (Pawn) | 1 square forward, promotes to Gold |
-| G (Gold) | 1 square orthogonally or diagonally forward |
+| Piece | SFEN | Movement |
+|-------|------|----------|
+| Tiger | K | 1 square any direction |
+| Puma | R | 1 square orthogonally |
+| Lynx | B | 1 square diagonally |
+| Cat | P | 1 square forward, promotes to Wild Cat |
+| Wild Cat | G | 1 square orthogonally or diagonally forward |
 
 ## Rules
 
