@@ -25,13 +25,15 @@ A casual 3x5 shogi variant.
 
 ## Starting Position
 
-|   | 3 | 2 | 1 |
+| 3 | 2 | 1 |   |
 |---|---|---|---|
-| <br>一<br> | <img src="pieces/puma_gote.png" width="48" height="48"> | <img src="pieces/tiger_gote.png" width="48" height="48"> | <img src="pieces/lynx_gote.png" width="48" height="48"> |
-| <br>二<br> | <img src="pieces/cat_gote.png" width="48" height="48"> |   | <img src="pieces/cat_gote.png" width="48" height="48"> |
-| <br>三<br> |   |   |   |
-| <br>四<br> | <img src="pieces/cat_sente.png" width="48" height="48"> |   | <img src="pieces/cat_sente.png" width="48" height="48"> |
-| <br>五<br> | <img src="pieces/lynx_sente.png" width="48" height="48"> | <img src="pieces/tiger_sente.png" width="48" height="48"> | <img src="pieces/puma_sente.png" width="48" height="48"> |
+| <img src="pieces/puma_gote.png" width="48" height="48"> | <img src="pieces/tiger_gote.png" width="48" height="48"> | <img src="pieces/lynx_gote.png" width="48" height="48"> | <br>一<br> |
+| <img src="pieces/cat_gote.png" width="48" height="48"> |   | <img src="pieces/cat_gote.png" width="48" height="48"> | <br>二<br> |
+|   |   |   | <br>三<br> |
+| <img src="pieces/cat_sente.png" width="48" height="48"> |   | <img src="pieces/cat_sente.png" width="48" height="48"> | <br>四<br> |
+| <img src="pieces/lynx_sente.png" width="48" height="48"> | <img src="pieces/tiger_sente.png" width="48" height="48"> | <img src="pieces/puma_sente.png" width="48" height="48"> | <br>五<br> |
+
+Pieces in hand: none
 
 ## Testing with Fairy-Stockfish
 
