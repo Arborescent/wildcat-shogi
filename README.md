@@ -16,6 +16,8 @@ A casual 3x5 shogi variant.
 
 - Captured pieces go to your hand and can be dropped on empty squares
 - Pawns promote to Gold on the last rank
+- No nifu rule (multiple pawns in the same file allowed)
+- No uchifuzume rule (pawn drop checkmate allowed)
 - **Win conditions:**
   - Checkmate the opponent's king
   - Move your king to the opponent's back rank (try rule)
