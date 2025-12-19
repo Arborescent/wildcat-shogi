@@ -1,0 +1,8 @@
+[package]
+name = "tsume-generator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+usi = { git = "https://github.com/Arborescent/usi-rs.git" }
+shogi = { git = "https://github.com/Arborescent/shogi-rs.git" }

@@ -1,1 +1,5 @@
 .claude
+target
+tools/tsume-generator/target
+tools/tsume-generator/.claude
+tools/tsume-generator/Cargo.lock

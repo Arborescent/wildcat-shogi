@@ -21,6 +21,7 @@ A casual 3x5 shogi variant.
 - **Win conditions:**
   - Checkmate the opponent's king
   - Move your king to the opponent's back rank (try rule)
+- No stalemate (having no legal moves is a loss, not a draw)
 - 4-fold repetition (including perpetual check) is a draw
 
 ## Starting Position
@@ -98,6 +99,18 @@ The following forked Rust crates support Wild Cat Shogi:
 
 These forks extend the original crates to support non-standard board sizes (3x5 for Wild Cat, 5x5 for Minishogi).
 
+## Tools
+
+### Tsume Generator
+
+The `tools/tsume-generator/` directory contains a Rust tool that generates tsume (checkmate puzzles) by simulating games where one player plays optimally and the other plays the worst possible moves. See [`tools/tsume-generator/README.md`](tools/tsume-generator/README.md) for details.
+
 ## Piece Set
 
-The `pieces/` folder contains a Wild Cat themed piece set. These images are released under [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/).
+The `pieces/` folder contains a Wild Cat themed piece set.
+
+## Licensing
+
+- **Piece Set**: [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)
+- **variants.ini**: MIT License
+- **Tsume Generator**: [MIT License](tools/tsume-generator/LICENSE)
