@@ -1,6 +1,6 @@
 # Tsume Generator
 
-Generates tsume (checkmate puzzles) for Wild Cat Shogi by simulating games where one player plays optimally and the other plays the worst possible moves.
+Generates mate-in-1 tsume (checkmate puzzles) for Wild Cat Shogi. Designed for casual play.
 
 ## How It Works
 

@@ -103,7 +103,7 @@ These forks extend the original crates to support non-standard board sizes (3x5 
 
 ### Tsume Generator
 
-The `tools/tsume-generator/` directory contains a Rust tool that generates tsume (checkmate puzzles) by simulating games where one player plays optimally and the other plays the worst possible moves. See [`tools/tsume-generator/README.md`](tools/tsume-generator/README.md) for details.
+The `tools/tsume-generator/` directory contains a Rust tool that generates mate-in-1 tsume (checkmate puzzles) for casual play. See [`tools/tsume-generator/README.md`](tools/tsume-generator/README.md) for details.
 
 ## Piece Set
 
